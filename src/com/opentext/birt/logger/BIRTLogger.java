@@ -5,7 +5,7 @@ package com.opentext.birt.logger;
  * BIRTLogger is a simple example showing how to catch and log
  * BIRT script exceptions.
  * 
- * @author Kristopher Clark
+ * @author @author <a href="mailto:clark.kristopher@gmail.com">Kristopher Clark</a>
  * @version 1.0
  * @since 2015-04-14
  */
