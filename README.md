@@ -36,14 +36,14 @@ The resulting output will look like this
 Because some methods are executed more than once by the BIRT engine, you may end up with duplicate enteries like above.
 
 # All BIRTLogger methods
-public BIRTLogger();
-public BIRTLogger(String methodName, String reportName);
-public void setReportName(String reportName);
-public void setMethodName(String methodName);
-public String getReportName();
-public String getMethodName();
-public void logError(String exception);
-public void logWarning(String warning);
-public void logInfo(String info);
-public void logDebug(String debug);
-public void logFatal(String fatal);
+* public BIRTLogger();
+* public BIRTLogger(String methodName, String reportName);
+* public void setReportName(String reportName);
+* public void setMethodName(String methodName);
+* public String getReportName();
+* public String getMethodName();
+* public void logError(String exception);
+* public void logWarning(String warning);
+* public void logInfo(String info);
+* public void logDebug(String debug);
+* public void logFatal(String fatal);
