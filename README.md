@@ -1,6 +1,6 @@
 # Setup
 * After creating a new Java project and importing the source.  Change line 12 of log4j.properties to match the location of where you'd like the log4j's output to be stored.  Then export the project as a JAR.
-* Next, place the newly created JAR as well as the log4j library in a folder named "Resourced" in your BIRT project
+* Next, place the newly created JAR as well as the log4j library in a folder named "Resources" in your BIRT project
 * Then from your report design > property editor > resources > add jar.  Point eclipse to the two jars you've added to your "Resources" folder
 
 # Usage
