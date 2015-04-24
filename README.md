@@ -24,7 +24,7 @@ try {
 }
 ```
 
-Note the second line of this example tells the logger that we're running "BIRT Logging Example.rptdesign" and any errors it catches is coming form the initialize() method.
+Note the second line of this example tells the logger that we're running "BIRT Logging Example.rptdesign" and any errors it catches are coming form the initialize() method.
 
 The resulting output will look like this
 
